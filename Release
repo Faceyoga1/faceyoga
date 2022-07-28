@@ -1,4 +1,6 @@
 {
   "version" : "1.0",
-  "showAd" : true
+  "showOpenAd" : true,
+  "showInterstitialAd" true,
+  "showRewardedInterstitialAd" true
 }
