@@ -1,6 +1,6 @@
 {
   "version" : "1.4",
-  "showOpenAd" : false,
-  "showInterstitialAd" : false,
-  "showRewardedInterstitialAd" : false
+  "showOpenAd" : true,
+  "showInterstitialAd" : true,
+  "showRewardedInterstitialAd" : true
 }
